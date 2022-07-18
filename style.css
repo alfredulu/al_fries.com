@@ -1,7 +1,6 @@
 html {
    background-size: 100%;
-   background-repeat: no-repeat;
-   background-position: center center;
+   background-position: center;
 }
 
 
@@ -9,7 +8,6 @@ html {
 body {
     background-color: #2f3035;
     background-image: url(images/background-adare-restaurant.jpg);
-    background-repeat: no-repeat;
     background-position: center;
 }
 
